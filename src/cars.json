@@ -1,0 +1,213 @@
+[
+  {
+    "id": 1,
+    "brand": "Toyota",
+    "model": "Supra MK4",
+    "year": 1998,
+    "country": "Japan",
+    "engine": "3.0L Twin-Turbo Inline-6",
+    "horsepower": 320,
+    "type": "Sports Car"
+  },
+  {
+    "id": 2,
+    "brand": "Ford",
+    "model": "Mustang GT",
+    "year": 1969,
+    "country": "USA",
+    "engine": "5.0L V8",
+    "horsepower": 335,
+    "type": "Muscle Car"
+  },
+  {
+    "id": 3,
+    "brand": "Ferrari",
+    "model": "F40",
+    "year": 1987,
+    "country": "Italy",
+    "engine": "2.9L Twin-Turbo V8",
+    "horsepower": 471,
+    "type": "Supercar"
+  },
+  {
+    "id": 4,
+    "brand": "Lamborghini",
+    "model": "Aventador",
+    "year": 2015,
+    "country": "Italy",
+    "engine": "6.5L V12",
+    "horsepower": 690,
+    "type": "Supercar"
+  },
+  {
+    "id": 5,
+    "brand": "BMW",
+    "model": "M3 E46",
+    "year": 2003,
+    "country": "Germany",
+    "engine": "3.2L Inline-6",
+    "horsepower": 343,
+    "type": "Sport Sedan"
+  },
+  {
+    "id": 6,
+    "brand": "Nissan",
+    "model": "Skyline GT-R R34",
+    "year": 1999,
+    "country": "Japan",
+    "engine": "2.6L Twin-Turbo Inline-6",
+    "horsepower": 280,
+    "type": "Sports Car"
+  },
+  {
+    "id": 7,
+    "brand": "Porsche",
+    "model": "911 Turbo",
+    "year": 2020,
+    "country": "Germany",
+    "engine": "3.8L Twin-Turbo Flat-6",
+    "horsepower": 572,
+    "type": "Sports Car"
+  },
+  {
+    "id": 8,
+    "brand": "Chevrolet",
+    "model": "Corvette C8",
+    "year": 2021,
+    "country": "USA",
+    "engine": "6.2L V8",
+    "horsepower": 495,
+    "type": "Sports Car"
+  },
+  {
+    "id": 9,
+    "brand": "Bugatti",
+    "model": "Chiron",
+    "year": 2019,
+    "country": "France",
+    "engine": "8.0L Quad-Turbo W16",
+    "horsepower": 1500,
+    "type": "Hypercar"
+  },
+  {
+    "id": 10,
+    "brand": "Tesla",
+    "model": "Model S Plaid",
+    "year": 2022,
+    "country": "USA",
+    "engine": "Electric Tri-Motor",
+    "horsepower": 1020,
+    "type": "Electric Sedan"
+  },
+
+  {
+    "id": 1,
+    "brand": "Toyota",
+    "model": "Supra MK4",
+    "year": 1998,
+    "country": "Japan",
+    "engine": "3.0L Twin-Turbo Inline-6",
+    "horsepower": 320,
+    "type": "Sports Car",
+    "image": "https://d-art.ppstatic.pl/kadry/k/r/1/b1/ae/62577f80a7f18_o_full.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "Ford",
+    "model": "Mustang GT",
+    "year": 1969,
+    "country": "USA",
+    "engine": "5.0L V8",
+    "horsepower": 335,
+    "type": "Muscle Car",
+    "image": "https://live.dealer-asset.co/pl3021/siteassets/ford-mustang-eu-bronze_pack_overview_card-3x2-1000x667.jpg"
+  },
+  {
+    "id": 3,
+    "brand": "Ferrari",
+    "model": "F40",
+    "year": 1987,
+    "country": "Italy",
+    "engine": "2.9L Twin-Turbo V8",
+    "horsepower": 471,
+    "type": "Supercar",
+    "image": "https://autogen.pl/cars/_mini/FerrF40-850x430.jpg"
+  },
+  {
+    "id": 4,
+    "brand": "Lamborghini",
+    "model": "Aventador",
+    "year": 2015,
+    "country": "Italy",
+    "engine": "6.5L V12",
+    "horsepower": 690,
+    "type": "Supercar",
+    "image": "https://media.architecturaldigest.com/photos/5b9691509cd13621bf9b559b/16:9/w_2991,h_1682,c_limit/JPrice_Lamborghini_MCW18-1755.jpg"
+  },
+  {
+    "id": 5,
+    "brand": "BMW",
+    "model": "M3 E46",
+    "year": 2003,
+    "country": "Germany",
+    "engine": "3.2L Inline-6",
+    "horsepower": 343,
+    "type": "Sport Sedan",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI2tn3IVNTRje5p5pokCE4blfz-SalD8ADSw&s"
+  },
+  {
+    "id": 6,
+    "brand": "Nissan",
+    "model": "Skyline GT-R R34",
+    "year": 1999,
+    "country": "Japan",
+    "engine": "2.6L Twin-Turbo Inline-6",
+    "horsepower": 280,
+    "type": "Sports Car",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Nissan_Skyline_GT-R_R34_V_Spec_II.jpg"
+  },
+  {
+    "id": 7,
+    "brand": "Porsche",
+    "model": "911 Turbo",
+    "year": 2020,
+    "country": "Germany",
+    "engine": "3.8L Twin-Turbo Flat-6",
+    "horsepower": 572,
+    "type": "Sports Car",
+    "image": "https://premiummoto.pl/wp-content/uploads/2013/05/13791935102093894509.jpg"
+  },
+  {
+    "id": 8,
+    "brand": "Chevrolet",
+    "model": "Corvette C8",
+    "year": 2021,
+    "country": "USA",
+    "engine": "6.2L V8",
+    "horsepower": 495,
+    "type": "Sports Car",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVC2Ds0x2lLlEH9O7T7V30KUZxT4lQGNG-bg&s"
+  },
+  {
+    "id": 9,
+    "brand": "Bugatti",
+    "model": "Chiron",
+    "year": 2019,
+    "country": "France",
+    "engine": "8.0L Quad-Turbo W16",
+    "horsepower": 1500,
+    "type": "Hypercar",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRrMfCW1xC__zuYaqNg8w9pQMV_mgLwWKrAw&s"
+  },
+  {
+    "id": 10,
+    "brand": "Tesla",
+    "model": "Model S Plaid",
+    "year": 2022,
+    "country": "USA",
+    "engine": "Electric Tri-Motor",
+    "horsepower": 1020,
+    "type": "Electric Sedan",
+    "image": "https://www.thecarexpert.co.uk/wp-content/uploads/2020/07/Tesla-Model-S-2023-2133x1200-cropped.jpg"
+  }
+]
